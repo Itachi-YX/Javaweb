@@ -13,7 +13,7 @@
 
 ## 基本信息
 - 学号: **222016321072012**
-- 网址: [http://119.23.45.34:8080/bbs/index.jsp](http://119.23.45.34:8080/bbs/index.jsp)
+- 网址: [Login(new)](http://119.23.45.34:8080/Javaweb/webapp0/WebContent/demo/other-login.html)
 
 
 ## 第一周完成内容
