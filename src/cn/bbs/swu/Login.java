@@ -12,8 +12,8 @@ public class Login extends HttpServlet{
 		
 		System.out.println(req.getContextPath());
 
-        String user = req.getParameter("user");
-        String pass = req.getParameter("pass");
+        String user = req.getParameter("inputEmail");
+        String pass = req.getParameter("inputPassword");
         try{
                 System.out.println(new String(user.getBytes("ISO-8859-1"), "UTF-8"));
         }
