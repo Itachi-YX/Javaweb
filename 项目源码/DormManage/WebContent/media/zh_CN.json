@@ -1,0 +1,17 @@
+锘縶
+    "sProcessing":   "澶勭悊涓�...",
+    "sLengthMenu":   "_MENU_ 璁板綍/椤�",
+    "sZeroRecords":  "娌℃湁鍖归厤鐨勮褰�",
+    "sInfo":         "鏄剧ず绗� _START_ 鑷� _END_ 椤硅褰曪紝鍏� _TOTAL_ 椤�",
+    "sInfoEmpty":    "鏄剧ず绗� 0 鑷� 0 椤硅褰曪紝鍏� 0 椤�",
+    "sInfoFiltered": "(鐢� _MAX_ 椤硅褰曡繃婊�)",
+    "sInfoPostFix":  "",
+    "sSearch":       "杩囨护:",
+    "sUrl":          "",
+    "oPaginate": {
+	"sFirst": "棣栭〉",
+	"sPrevious": "涓婇〉",
+	"sNext": "涓嬮〉",
+	"sLast": "鏈〉"
+}
+}
